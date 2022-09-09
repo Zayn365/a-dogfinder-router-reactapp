@@ -1,0 +1,13 @@
+.img {
+    width: 75%;
+    border: double 6px darkred;
+    border-radius: 50%;
+    border-width: 10px;
+    padding: 20px;
+}
+
+.img:hover {
+    padding: 8px;
+    border: solid 6px #212529;
+    transition: ease-out 1s;
+}
